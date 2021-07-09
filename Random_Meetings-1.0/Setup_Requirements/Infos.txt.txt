@@ -1,0 +1,26 @@
+<------ Informations ------>
+Ce logiciel est entierement gratuit ;).
+
+Si le chargement a un freeze, n'hesitez pas a redemarrer le logiciel.
+Ce Programme a entierement ete code en Python3.
+Pour Recuperer L'Output, allez dans ouvrir l'emplacement source de l'application
+
+
+<--------------------------->
+|
+|
+|
+|
+|
+V
+<------ Remerciements ------>
+Je remercie, moi, Come d'Herouville
+la societe d'Argon&Co et l'equipe d'Iris
+de m'avoir accueilli et forme par
+leurs bons conseils.
+Merci.
+Come d'Herouville 09/07/2021 18h
+
+GitHub : https://github.com/DivPyCoding
+Chaine Youtube : https://www.youtube.com/channel/UCVWMToHQdzX_8RQKW_nwweQ
+<--------------------------->
